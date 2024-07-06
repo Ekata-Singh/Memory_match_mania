@@ -1,2 +1,3 @@
 ## Hi there 👋
 "Memory Match Mania" is an interactive web-based card matching game created using HTML, CSS, and JavaScript. The game presents a grid of face-down cards, each with a hidden image. Players flip two cards per turn to find matching pairs, testing their memory and concentration. The HTML structures the game layout, CSS styles the cards and grid, and JavaScript handles game logic, including shuffling cards, tracking matched pairs, and timing. The game includes features like scorekeeping, move counting, and a restart button. Players aim to match all pairs in the fewest moves possible, making it a fun and engaging challenge.
+Here is the link to the game: - https://sahilkom.github.io/Memory-match-mania-game.io/
